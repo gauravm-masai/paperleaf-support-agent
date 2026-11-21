@@ -1,0 +1,4 @@
+ticket_id,time,message,reason,priority,status
+TKT-1001,2026-11-21T20:29:28,My order arrived broken and I'm really angry!,Damaged item and angry customer,high,open
+TKT-1002,2026-11-21T20:29:31,"I want a refund of ₹3,500 for my order.","Refund request over ₹2,000",high,open
+TKT-1003,2026-11-21T20:29:37,Let me talk to a real person.,Customer asked for a person,normal,open
