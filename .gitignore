@@ -12,6 +12,7 @@ __pycache__/
 .adk/
 chroma_db/
 tickets.csv
+chats/
 
 # Editor and system clutter
 .DS_Store

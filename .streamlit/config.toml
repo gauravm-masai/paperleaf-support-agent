@@ -1,0 +1,7 @@
+# Colours for the chat page: leaf green on a warm cream background.
+[theme]
+primaryColor = "#2F6B4F"
+backgroundColor = "#FBF8F1"
+secondaryBackgroundColor = "#EEF3EC"
+textColor = "#1F2A24"
+font = "sans serif"
