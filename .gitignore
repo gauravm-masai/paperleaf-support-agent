@@ -11,6 +11,7 @@ __pycache__/
 # Files the agent creates while it runs
 .adk/
 chroma_db/
+tickets.csv
 
 # Editor and system clutter
 .DS_Store
