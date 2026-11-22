@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80">
-  <!-- A simple leaf shape -->
-  <path d="M40 8 C14 14 8 44 22 62 C24 50 30 40 46 30 C36 42 32 54 34 66 C56 60 70 34 40 8 Z" fill="#2F6B4F"/>
+  <!-- A deep green leaf on a rounded tile -->
+  <rect x="6" y="8" width="58" height="64" rx="12" fill="#1B5A45"/>
+  <path d="M35 20 C20 25 17 44 26 56 C27 48 31 42 40 36 C34 44 32 51 33 58 C47 54 54 36 35 20 Z" fill="#FFFFFF"/>
   <!-- The name -->
-  <text x="84" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#1F2A24">PaperLeaf</text>
-  <text x="86" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="5" fill="#2F6B4F">BOOKS</text>
+  <text x="76" y="52" font-family="'Fraunces', Georgia, serif" font-size="38" font-weight="600" letter-spacing="-1.5" fill="#12251C">PaperLeaf</text>
 </svg>
